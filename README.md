@@ -1,4 +1,4 @@
-# Conversational AI Agent for WhatsApp Barber Shops
+# Conversational AI Agent for WhatsApp Finance
 
 This conversational agent leverages **Artificial Intelligence (AI)**, **RAG (Retrieval-Augmented Generation)**, and **Prompt Engineering** to revolutionize customer service for barber shops. It operates **24/7 autonomously**, ensuring **fast, natural, and personalized responses** to WhatsApp users.
 
